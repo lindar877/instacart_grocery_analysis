@@ -1,7 +1,7 @@
-## Instacart Grocery Analysis
+# Instacart Grocery Analysis
 
 
-# Objective
+## Objective
 
 Perform exploratory analysis on Instacart grocery orders to identify different types of customers and their purchasing behaviors. Support Instacart in customer segmentation to improve marketing strategy. 
 
@@ -13,21 +13,21 @@ Open source data on Instacart orders from 2017 was downloaded from Instacart. Cu
 
 ## Analysis Tools
 
-Python 
+- Python 
 
-Anaconda 3
+- Anaconda 3
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Pandas
+- Pandas
 
-Seaborn
+- Seaborn
 
-Matplotlib
+- Matplotlib
 
-Scipy
+- Scipy
 
-Numpy
+- Numpy
 
 ## Analysis Results
 
