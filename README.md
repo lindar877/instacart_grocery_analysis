@@ -31,4 +31,4 @@ Open source data on Instacart orders from 2017 was downloaded from Instacart. Cu
 
 ## Analysis Results
 
-
+[Instacart Grocery Analysis Final Report](https://github.com/lindar877/instacart_grocery_analysis/blob/main/LZ_Instacart_final_report.xlsx)
